@@ -1,3 +1,14 @@
+I have not added node modules in the GitHub repo due to its size and the project would not work without it.
+So to make the project work on your local host:
+
+!!! You will first need to install node.js on your pc before doing anything. !!!
+
+1- Download all the files on your PC.
+2- Open the project folder that you just downloaded on your code editor.
+3- Open terminal.
+4- Write the following command to add node modules: npm install
+5- after node modules are installed rum the following command on your terminal to start the project on your local host : npm run start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
